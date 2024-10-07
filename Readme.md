@@ -18,7 +18,9 @@ Verifique se você possui os seguintes requisitos instalados:
 4. Ao iniciar, verifique seu Ip e a porta.
 5. Cole seu ip e porta em seu navegador para acessar a interface do node-red.
 6. Para acessar o Broker_Catalog, adicione /brokers ao final do seu Ip.
+7. http://ip-do-usuario:porta/brokers
 
+   
 #### Créditos
 
 Samuel Lucas
